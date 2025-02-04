@@ -53,5 +53,5 @@ playwright-qaturbo-3-qazando
 ## 📢 Contato
 Caso tenha dúvidas ou sugestões, fique à vontade para entrar em contato! 😊
 
-📧 [joice.jdosreis@gmail.com]  
-🔗 [https://www.linkedin.com/in/joice-meriele-reis/]  
+📧 [Entre em contato por e-mail](joice.jdosreis@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/joice-meriele-reis/)
