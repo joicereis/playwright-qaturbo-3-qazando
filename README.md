@@ -4,6 +4,7 @@ Este repositório contém um projeto de automação de testes utilizando Playwri
 
 ## 📌 Objetivo
 O objetivo deste projeto é aprofundar os conhecimentos em automação de testes end-to-end com Playwright, aplicando boas práticas e explorando seus recursos para a validação de aplicações web.
+Os scripts criados nesse projeto visam automatizar os testes de possíveis cenários presentes na funcionalidade de Login na aplicação [QAZANDO Shop E-Commerce](https://automationpratice.com.br/).
 
 ## 🛠️ Tecnologias Utilizadas
 - Playwright – Framework moderno para automação de testes
